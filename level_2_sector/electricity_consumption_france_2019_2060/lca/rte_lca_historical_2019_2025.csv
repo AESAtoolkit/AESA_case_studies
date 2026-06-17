@@ -1,0 +1,463 @@
+rte_consumption_scenario,rte_production_scenario,lcia_method,impact,impact_unit,year,value
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2019,31231222213.556915
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2020,30470379752.628883
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2021,29697721302.780224
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2022,28913246864.010925
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2023,28116956436.321011
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2024,27308850019.71048
+reference,m0,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2025,26488927614.17931
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2019,31231222213.556915
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2020,30386030840.833973
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2021,29527933480.872169
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2022,28656930133.67149
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2023,27773020799.231937
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2024,26876205477.553528
+reference,m1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2025,25966484168.63625
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2019,31231222213.556915
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2020,30386030840.833973
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2021,29527933480.872169
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2022,28656930133.67149
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2023,27773020799.231937
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2024,26876205477.553528
+reference,m23,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2025,25966484168.63625
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2019,31231222213.556915
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2020,30386030840.833973
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2021,29527933480.872169
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2022,28656930133.67149
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2023,27773020799.231937
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2024,26876205477.553528
+reference,n1,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2025,25966484168.63625
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2019,31231222213.556915
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2020,30386030840.833973
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2021,29527933480.872169
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2022,28656930133.67149
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2023,27773020799.231937
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2024,26876205477.553528
+reference,n2,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2025,25966484168.63625
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2019,31231222213.556915
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2020,30233610032.866573
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2021,29221148275.947289
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2022,28193836942.79908
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2023,27151676033.421928
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2024,26094665547.815849
+reference,n03,"IPCC 2021, climate change, global warming potential (GWP100)",GWP_100,kg CO2-eq,2025,25022805485.980824
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2019,0.0001561052027738
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2020,0.00015657499495420001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2021,0.00015703858071010001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2022,0.00015749596004140001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2023,0.0001579471329482
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2024,0.0001583920994305
+reference,m0,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2025,0.00015883085948820001
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2019,0.0001561052027738
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2020,0.00015651260282490001
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2021,0.00015691296640899999
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2022,0.0001573062935259
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2023,0.00015769258417580001
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2024,0.00015807183835859999
+reference,m1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2025,0.0001584440560743
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2019,0.0001561052027738
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2020,0.00015651260282490001
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2021,0.00015691296640899999
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2022,0.0001573062935259
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2023,0.00015769258417580001
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2024,0.00015807183835859999
+reference,m23,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2025,0.0001584440560743
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2019,0.0001561052027738
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2020,0.00015651260282490001
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2021,0.00015691296640899999
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2022,0.0001573062935259
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2023,0.00015769258417580001
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2024,0.00015807183835859999
+reference,n1,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2025,0.0001584440560743
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2019,0.0001561052027738
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2020,0.00015651260282490001
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2021,0.00015691296640899999
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2022,0.0001573062935259
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2023,0.00015769258417580001
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2024,0.00015807183835859999
+reference,n2,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2025,0.0001584440560743
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2019,0.0001561052027738
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2020,0.00015641943228209999
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2021,0.00015672540729999999
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2022,0.00015702312782740001
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2023,0.00015731259386440001
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2024,0.000157593805411
+reference,n03,"AESA (PBs-LCIA), 0.9.1, atmospheric aerosol loading, AOD (Global)",AAL,AOD,2025,0.00015786676246710001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2019,0.043299745444682097
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2020,0.042952703962040102
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2021,0.0425980361283314
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2022,0.0422357419435559
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2023,0.041865821407713701
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2024,0.041488274520804801
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2025,0.041103101282829103
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2019,0.043299745444682097
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2020,0.042999455975035301
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2021,0.0426920867365113
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2022,0.042377637729110101
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2023,0.0420561089528316
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2024,0.041727500407675797
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2025,0.041391812093642698
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2019,0.043299745444682097
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2020,0.042999455975035301
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2021,0.0426920867365113
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2022,0.042377637729110101
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2023,0.0420561089528316
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2024,0.041727500407675797
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2025,0.041391812093642698
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2019,0.043299745444682097
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2020,0.042999455975035301
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2021,0.0426920867365113
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2022,0.042377637729110101
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2023,0.0420561089528316
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2024,0.041727500407675797
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2025,0.041391812093642698
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2019,0.043299745444682097
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2020,0.042999455975035301
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2021,0.0426920867365113
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2022,0.042377637729110101
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2023,0.0420561089528316
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2024,0.041727500407675797
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2025,0.041391812093642698
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2019,0.043299745444682097
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2020,0.043095520603041802
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2021,0.042885379757107399
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2022,0.0426693229068787
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2023,0.042447350052355899
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2024,0.0422194611935389
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, nitrogen, inverse modelling, surface water",N,Tg N yr-1,2025,0.041985656330427702
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2019,8.1359316794433491e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2020,8.2979961349408885e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2021,8.4614389886497179e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2022,8.6262602405698412e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2023,8.7924598907012492e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2024,8.9600379390439552e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2025,9.1289943855979485e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2019,8.1359316794433491e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2020,8.2847521856662065e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2021,8.434789037334894e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2022,8.5860422344494224e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2023,8.7385117770097905e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2024,8.8921976650159872e-05
+reference,m1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2025,9.047099898468029e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2019,8.1359316794433491e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2020,8.2847521856662065e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2021,8.434789037334894e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2022,8.5860422344494224e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2023,8.7385117770097905e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2024,8.8921976650159872e-05
+reference,m23,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2025,9.047099898468029e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2019,8.1359316794433491e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2020,8.2847521856662065e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2021,8.434789037334894e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2022,8.5860422344494224e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2023,8.7385117770097905e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2024,8.8921976650159872e-05
+reference,n1,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2025,9.047099898468029e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2019,8.1359316794433491e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2020,8.2847521856662065e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2021,8.434789037334894e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2022,8.5860422344494224e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2023,8.7385117770097905e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2024,8.8921976650159872e-05
+reference,n2,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2025,9.047099898468029e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2019,8.1359316794433491e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2020,8.2572904811986059e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2021,8.3795256185031122e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2022,8.5026370913568721e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2023,8.6266248997598911e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2024,8.7514890437121582e-05
+reference,n03,"AESA (PBs-LCIA), 0.9.1, biogeochemical flows, phosphorus",P GLO,Tg P yr-1,2025,8.8772295232136843e-05
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2019,0.019612535456771898
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2020,0.019463223916230399
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2021,0.019310555513484502
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2022,0.0191545302485343
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2023,0.018995148121379601
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2024,0.018832409132020601
+reference,m0,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2025,0.018666313280457199
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2019,0.019612535456771898
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2020,0.019429494083537099
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2021,0.019242662457954501
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2022,0.019052040580024299
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2023,0.018857628449746401
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2024,0.018659426067120701
+reference,m1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2025,0.018457433432147299
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2019,0.019612535456771898
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2020,0.019429494083537099
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2021,0.019242662457954501
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2022,0.019052040580024299
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2023,0.018857628449746401
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2024,0.018659426067120701
+reference,m23,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2025,0.018457433432147299
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2019,0.019612535456771898
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2020,0.019429494083537099
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2021,0.019242662457954501
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2022,0.019052040580024299
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2023,0.018857628449746401
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2024,0.018659426067120701
+reference,n1,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2025,0.018457433432147299
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2019,0.019612535456771898
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2020,0.019429494083537099
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2021,0.019242662457954501
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2022,0.019052040580024299
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2023,0.018857628449746401
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2024,0.018659426067120701
+reference,n2,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2025,0.018457433432147299
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2019,0.019612535456771898
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2020,0.019362849406663399
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2021,0.019108527502188499
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2022,0.0188495697433472
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2023,0.0185859761301395
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2024,0.018317746662565401
+reference,n03,"AESA (PBs-LCIA), 0.9.1, change in biosphere integrity, functional diversity, total",BI FD,%BII loss,2025,0.018044881340624899
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2019,0.75102459772829855
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2020,0.73193959323491953
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2021,0.71256068880637502
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2022,0.69288788444266391
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2023,0.67292118014378688
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2024,0.65266057590974325
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2025,0.63210607174053457
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2019,0.75102459772829855
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2020,0.729871308789665
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2021,0.70839738332711144
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2022,0.68660282134063877
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2023,0.66448762283024632
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2024,0.6420517877959343
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2025,0.61929531623770251
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2019,0.75102459772829855
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2020,0.729871308789665
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2021,0.70839738332711144
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2022,0.68660282134063877
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2023,0.66448762283024632
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2024,0.6420517877959343
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2025,0.61929531623770251
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2019,0.75102459772829855
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2020,0.729871308789665
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2021,0.70839738332711144
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2022,0.68660282134063877
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2023,0.66448762283024632
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2024,0.6420517877959343
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2025,0.61929531623770251
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2019,0.75102459772829855
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2020,0.729871308789665
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2021,0.70839738332711144
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2022,0.68660282134063877
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2023,0.66448762283024632
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2024,0.6420517877959343
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2025,0.61929531623770251
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2019,0.75102459772829855
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2020,0.72613416351703985
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2021,0.7008754294294115
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2022,0.67524839546541304
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2023,0.64925306162504437
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2024,0.62288942790830593
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, atmospheric CO2 concentration",aCO2,ppm,2025,0.59615749431519738
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2019,0.0100884316560064
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2020,0.0098379214612631001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2021,0.0095835357869677
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2022,0.0093252746331202001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2023,0.0090631379997206003
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2024,0.0087971258867689008
+reference,m0,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2025,0.0085272382942650007
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2019,0.0100884316560064
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2020,0.0098105093521286997
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2021,0.0095283572422762992
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2022,0.0092419753264489993
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2023,0.0089513636046469006
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2024,0.0086565220768701004
+reference,m1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2025,0.0083574507431184008
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2019,0.0100884316560064
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2020,0.0098105093521286997
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2021,0.0095283572422762992
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2022,0.0092419753264489993
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2023,0.0089513636046469006
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2024,0.0086565220768701004
+reference,m23,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2025,0.0083574507431184008
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2019,0.0100884316560064
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2020,0.0098105093521286997
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2021,0.0095283572422762992
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2022,0.0092419753264489993
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2023,0.0089513636046469006
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2024,0.0086565220768701004
+reference,n1,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2025,0.0083574507431184008
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2019,0.0100884316560064
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2020,0.0098105093521286997
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2021,0.0095283572422762992
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2022,0.0092419753264489993
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2023,0.0089513636046469006
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2024,0.0086565220768701004
+reference,n2,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2025,0.0083574507431184008
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2019,0.0100884316560064
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2020,0.0097609874877294996
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2021,0.0094286819396716993
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2022,0.0090915150118332008
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2023,0.0087494867042138998
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2024,0.0084025970168136992
+reference,n03,"AESA (PBs-LCIA), 0.9.1, climate change, energy imbalance at top-of-atmosphere",EI,W m-2,2025,0.0080508459496326998
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2019,1.3822364724622609
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2020,1.3773152537200082
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2021,1.372226747721945
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2022,1.3669709544680708
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2023,1.3615478739583855
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2024,1.3559575061928912
+reference,m0,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2025,1.3501998511715847
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2019,1.3822364724622609
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2020,1.3780785919424587
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2021,1.3737620580967027
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2022,1.369286870924995
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2023,1.3646530304273328
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2024,1.3598605366037178
+reference,m1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2025,1.3549093894541488
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2019,1.3822364724622609
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2020,1.3780785919424587
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2021,1.3737620580967027
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2022,1.369286870924995
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2023,1.3646530304273328
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2024,1.3598605366037178
+reference,m23,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2025,1.3549093894541488
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2019,1.3822364724622609
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2020,1.3780785919424587
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2021,1.3737620580967027
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2022,1.369286870924995
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2023,1.3646530304273328
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2024,1.3598605366037178
+reference,n1,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2025,1.3549093894541488
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2019,1.3822364724622609
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2020,1.3780785919424587
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2021,1.3737620580967027
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2022,1.369286870924995
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2023,1.3646530304273328
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2024,1.3598605366037178
+reference,n2,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2025,1.3549093894541488
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2019,1.3822364724622609
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2020,1.3796331248369342
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2021,1.3768896601915619
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2022,1.3740060785261452
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2023,1.3709823798406833
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2024,1.3678185641351763
+reference,n03,"AESA (PBs-LCIA), 0.9.1, freshwater use, global",FWU,km3 yr-1,2025,1.3645146314096239
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2019,2.2242059307098279e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2020,2.1677142339428928e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2021,2.1103525020225311e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2022,2.0521207349487407e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2023,1.9930189327215254e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2024,1.933047095340884e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2025,1.8722052228068147e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2019,2.2242059307098279e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2020,2.1619449860309586e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2021,2.0987392437119198e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2022,2.034588703752716e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2023,1.9694933661533441e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2024,1.9034532309138065e-06
+reference,m1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2025,1.8364682980341e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2019,2.2242059307098279e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2020,2.1619449860309586e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2021,2.0987392437119198e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2022,2.034588703752716e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2023,1.9694933661533441e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2024,1.9034532309138065e-06
+reference,m23,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2025,1.8364682980341e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2019,2.2242059307098279e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2020,2.1619449860309586e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2021,2.0987392437119198e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2022,2.034588703752716e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2023,1.9694933661533441e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2024,1.9034532309138065e-06
+reference,n1,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2025,1.8364682980341e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2019,2.2242059307098279e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2020,2.1619449860309586e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2021,2.0987392437119198e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2022,2.034588703752716e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2023,1.9694933661533441e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2024,1.9034532309138065e-06
+reference,n2,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2025,1.8364682980341e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2019,2.2242059307098279e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2020,2.152968114945485e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2021,2.08067038052444e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2022,2.0073127274466942e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2023,1.9328951557122447e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2024,1.8574176653210956e-06
+reference,n03,"AESA (PBs-LCIA), 0.9.1, land-system change, global",LSC,%,2025,1.7808802562732426e-06
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2019,0.0022949393536699
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2020,0.0022366199836181999
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2021,0.0021774025246054001
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2022,0.0021172869766315
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2023,0.0020562733396963999
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2024,0.0019943616138002
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2025,0.0019315517989429
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2019,0.0022949393536699
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2020,0.002230299813203
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2021,0.0021646804833050999
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2022,0.0020980813639763
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2023,0.0020305024552164002
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2024,0.0019619437570256
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2025,0.0018924052694038
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2019,0.0022949393536699
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2020,0.002230299813203
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2021,0.0021646804833050999
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2022,0.0020980813639763
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2023,0.0020305024552164002
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2024,0.0019619437570256
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2025,0.0018924052694038
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2019,0.0022949393536699
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2020,0.002230299813203
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2021,0.0021646804833050999
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2022,0.0020980813639763
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2023,0.0020305024552164002
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2024,0.0019619437570256
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2025,0.0018924052694038
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2019,0.0022949393536699
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2020,0.002230299813203
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2021,0.0021646804833050999
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2022,0.0020980813639763
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2023,0.0020305024552164002
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2024,0.0019619437570256
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2025,0.0018924052694038
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2019,0.0022949393536699
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2020,0.0022188800194649001
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2021,0.0021416952483769998
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2022,0.0020633850404064001
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2023,0.0019839493955530001
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2024,0.0019033883138168
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ocean acidification, carbonate ion concentration",OA,aragonite saturation,2025,0.0018217017951978
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2019,0.0004958608344867
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2020,0.0004960408141803
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2021,0.00049618484634219998
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2022,0.00049629293097240004
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2023,0.00049636506807089996
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2024,0.00049640125763759999
+reference,m0,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2025,0.00049640149967269996
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2019,0.0004958608344867
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2020,0.00049575976134670001
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2021,0.000495619026403
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2022,0.00049543862965570004
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2023,0.00049521857110459999
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2024,0.00049495885074980002
+reference,m1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2025,0.0004946594685914
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2019,0.0004958608344867
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2020,0.00049575976134670001
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2021,0.000495619026403
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2022,0.00049543862965570004
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2023,0.00049521857110459999
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2024,0.00049495885074980002
+reference,m23,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2025,0.0004946594685914
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2019,0.0004958608344867
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2020,0.00049575976134670001
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2021,0.000495619026403
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2022,0.00049543862965570004
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2023,0.00049521857110459999
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2024,0.00049495885074980002
+reference,n1,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2025,0.0004946594685914
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2019,0.0004958608344867
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2020,0.00049575976134670001
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2021,0.000495619026403
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2022,0.00049543862965570004
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2023,0.00049521857110459999
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2024,0.00049495885074980002
+reference,n2,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2025,0.0004946594685914
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2019,0.0004958608344867
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2020,0.00049528947940630003
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2021,0.00049467237130200003
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2022,0.00049400951017380002
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2023,0.00049330089602160003
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2024,0.00049254652884550001
+reference,n03,"AESA (PBs-LCIA), 0.9.1, ozone depletion, stratospheric O3 concentration",SOD,DU,2025,0.00049174640864549997
