@@ -18,8 +18,8 @@ from pyaesa import (
 # ========
 # Settings
 # ========
-# Change this path to your own pyaesa workspace folder.
-WORKSPACE_PATH = Path(r"C:/Users/Erwan/Documents/UNCASExt_demo/pyaesa")
+# Replace this placeholder with the pyaesa workspace to use for the study.
+WORKSPACE_PATH = Path("/path/to/pyaesa_workspace")
 
 # Root name used for the deterministic aSoCC projects and ratio output folder.
 PROJECT_NAME_ROOT = "uncasext_fu_ratio"
